@@ -20,6 +20,6 @@ name| Info
 [OneLLM: One Framework to Align All Modalities with Language](https://arxiv.org/pdf/2312.03700.pdf) |  mllm, mmlab
 [Pixel Aligned Language Models](https://jerryxu.net/PixelLLM/) |  pixel-llm, google
 [Generative Multimodal Models are In-Context Learners](https://baaivision.github.io/emu2/) |  emu2, baai
-
+[Data-Efficient Instruction Tuning for Alignment](https://arxiv.org/pdf/2312.15685.pdf) | Deita, sft
 
 
