@@ -17,6 +17,7 @@ name| Info
 name| Info
 ---|---
 [Visual Instruction Tuning towards General-Purpose Multimodal Model: A Survey](https://arxiv.org/pdf/2312.16602.pdf) | mm-llm, survey
+[Visual Instruction Tuning](https://github.com/haotian-liu/LLaVA) | LLaVA, NeurIPS2023
 [4M: Massively Multimodal Masked Modeling](https://arxiv.org/abs/2312.06647) | vision fundation model, apple
 [OneLLM: One Framework to Align All Modalities with Language](https://arxiv.org/pdf/2312.03700.pdf) |  mllm, mmlab
 [Pixel Aligned Language Models](https://jerryxu.net/PixelLLM/) |  pixel-llm, google
