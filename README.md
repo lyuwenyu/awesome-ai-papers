@@ -16,6 +16,7 @@ name| Info
 ## Multimodal Large Language Model
 name| Info
 ---|---
+[A Survey on Multimodal Large Language Models](https://arxiv.org/pdf/2306.13549.pdf) | mm-llm, survey
 [Visual Instruction Tuning towards General-Purpose Multimodal Model: A Survey](https://arxiv.org/pdf/2312.16602.pdf) | mm-llm, survey
 [Visual Instruction Tuning](https://github.com/haotian-liu/LLaVA) | LLaVA, NeurIPS2023
 [4M: Massively Multimodal Masked Modeling](https://arxiv.org/abs/2312.06647) | vision fundation model, apple
