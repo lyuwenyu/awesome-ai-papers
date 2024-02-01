@@ -16,6 +16,7 @@ name| Info
 ## Multimodal Large Language Model
 name| Info
 ---|---
+[MM-LLMs: Recent Advances in MultiModal Large Language Models](https://arxiv.org/pdf/2401.13601.pdf) | mm-llm, survey
 [A Survey on Multimodal Large Language Models](https://arxiv.org/pdf/2306.13549.pdf) | mm-llm, survey
 [Visual Instruction Tuning towards General-Purpose Multimodal Model: A Survey](https://arxiv.org/pdf/2312.16602.pdf) | mm-llm, survey
 [Visual Instruction Tuning](https://github.com/haotian-liu/LLaVA) | LLaVA, NeurIPS2023
